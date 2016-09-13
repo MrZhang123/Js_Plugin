@@ -9,7 +9,7 @@ Jquery plugin , implementation the Alipay password function
 ### Usage
 
 - Create a container class="container", and then create a hidden input.
-- $('.container').Alipay()
+- `$('.container').Alipay()`
 - Which need to cooperate with CSS style
 
 #### Questions
